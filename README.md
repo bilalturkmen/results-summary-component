@@ -12,16 +12,16 @@
 
 ## 👍 My Challenges:
 
-- added calculation and celebration effect.
-- and tried presenting a good page experience.
-- showing hover states for all interactive elements on the page.
+- Celebration effect has been added for good scores.
+- Calculation animation was added when the page first loaded.
+- Design improvements have been made for a stunning experience.
 
 ![](./public/images/screenshot.jpg)
 
 ## 🎉 Build With:
 
-- React js and Vite
-- Semantic HTML5 markup
-- Flexbox & Css Grid
+- React JS and Vite
+- Semantic HTML markup
+- Flexbox & Grid CSS
 - Mobile-first workflow
 - CSS custom properties
